@@ -24,7 +24,8 @@
 	},
 	"homepage": "https://github.com/ngocsangyem/test-practice#readme",
 	"devDependencies": {
-		"jest": "^26.4.2",
+		"@babel/plugin-transform-modules-commonjs": "^7.10.4",
+		"jest": "^23.6.0",
 		"webpack": "^4.44.1",
 		"webpack-cli": "^3.3.12"
 	}
