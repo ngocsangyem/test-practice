@@ -1,0 +1,28 @@
+{
+	"name": "jest_bassic_test",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ngocsangyem/test-practice.git"
+	},
+	"keywords": [
+		"test",
+		"jest",
+		"javascript",
+		"nodejs"
+	],
+	"author": "ngocsangyem",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/ngocsangyem/test-practice/issues"
+	},
+	"homepage": "https://github.com/ngocsangyem/test-practice#readme",
+	"devDependencies": {
+		"jest": "^26.4.2"
+	}
+}
