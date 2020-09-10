@@ -4,6 +4,7 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
+		"start": "webpack src/app.js --mode development --watch",
 		"test": "jest"
 	},
 	"repository": {
@@ -23,6 +24,8 @@
 	},
 	"homepage": "https://github.com/ngocsangyem/test-practice#readme",
 	"devDependencies": {
-		"jest": "^26.4.2"
+		"jest": "^26.4.2",
+		"webpack": "^4.44.1",
+		"webpack-cli": "^3.3.12"
 	}
 }
